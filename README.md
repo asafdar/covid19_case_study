@@ -1,0 +1,1 @@
+This is a COVID-19 analysis, visualization, and prediction case study utilizing the NYT dataset.
